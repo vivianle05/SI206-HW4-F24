@@ -6,9 +6,9 @@ git clone <link>
 ```
 #### Step 2: Open your file (or the whole folder) in VSCode.
 
-#### Step 3: Read the instructions of Discussion 4
+#### Step 3: Read the instructions of HW4
 
-#### Step 4: Modify the code in Discussion4.py.  To add this file to the staging area for a commit use:
+#### Step 4: Modify the code in HW4_starter.py.  To add this file to the staging area for a commit use:
 ```
 git add Discussion4.py
 ```
@@ -28,6 +28,6 @@ Please commit at least 4 times while working on this assignment; you might commi
 git push
 ```
 
-#### Step 7: Submit a link for your repository on GitHub on Canvas by the due date.
+#### Step 7: Submit a link for your repository on GitHub on Canvas by Friday September 27, 2024 @11:59PM.
 
-You can find the link in the browser window.
+You can find the link in the browser window or after clicking the green <Code> button.
