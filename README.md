@@ -10,7 +10,7 @@ git clone <link>
 
 #### Step 4: Modify the code in HW4_starter.py.  To add this file to the staging area for a commit use:
 ```
-git add Discussion4.py
+git add HW4_starter.py
 ```
 #### Step 5: As you work, run below to commit/save your changes locally often.
 
@@ -30,4 +30,4 @@ git push
 
 #### Step 7: Submit a link for your repository on GitHub on Canvas by Friday September 27, 2024 @11:59PM.
 
-You can find the link in the browser window or after clicking the green <Code> button.
+You can find the link in the browser window or after clicking the green Code button.
